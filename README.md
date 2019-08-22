@@ -1,6 +1,6 @@
 # Template for thesis projects
 
-This is a template for thesis projects at the [OpenSourceEconomics](https://github.com/OpenSourceEconomics) research group.
+This is a template for thesis projects at the [OpenSourceEconomics](https://github.com/OpenSourceEconomics) research group. You can use this template when creating a new repository for your thesis.
 
 ### Inquiry
 
@@ -22,7 +22,7 @@ To ensure full reproducibility of your project, please set up a [Travis CI](http
 
 ## Basics
 
-* All communication is conducted using [slack](https://slack.com). Please join us in our workspace [here](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY)
+* All communication is conducted using [Slack](https://slack.com). Please join us in our workspace [here](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY)
 
 * We regularly meet for a group discussion of the ongoing projects and participation is expected.
 
@@ -32,8 +32,10 @@ To ensure full reproducibility of your project, please set up a [Travis CI](http
 
 * *How can I improve the quality of my writing?* We provide some suggestions [here](https://github.com/HumanCapitalAnalysis/general-resources).
 
+* *What is a good example of the work in your research group? * You can take a look at [respy](https://respy.readthedocs.io/en/latest/)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](HumanCapitalAnalysis/student-project-template/blob/master/LICENSE)
 
 ## TODO:
 
-* The link for the slack room is wrong. We need to decide to have it in HumanCapitalAnalysis or sth. else.
+* The link for the Slack room is wrong. We need to decide to have it in HumanCapitalAnalysis or sth. else.
