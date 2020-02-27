@@ -22,7 +22,7 @@ To ensure full reproducibility of your project, please set up a [Travis CI](http
 
 ## Basics
 
-* All communication is conducted using [zulip](https://zulipchat.com/). Please join us in our workspace [here](We will use [grmpy](https://grmpy.readthedocs.io) in several hand-on tutorials to explore the mechanics of the generalized Roy model. For further information, please do not hesitate to [contact us](https://hca.zulipchat.com/join/84tlhl1nmm4fke4dpg5mo74u/).
+* All communication is conducted using [zulip](https://zulipchat.com/). Please join us in our workspace [here](We will use [grmpy](https://grmpy.readthedocs.io) in several hand-on tutorials to explore the mechanics of the generalized Roy model. For further information, please do not hesitate to [contact us](https://hca.zulipchat.com/).
 )
 
 * We regularly meet for a group discussion of the ongoing projects and participation is expected.
