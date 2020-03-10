@@ -8,5 +8,6 @@ dependencies:
 - seaborn
 - scipy
 - pip
-- grmpy
+- pip:
+  - grmpy
 
