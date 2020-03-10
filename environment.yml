@@ -8,5 +8,5 @@ dependencies:
 - seaborn
 - scipy
 - pip
-- pip install grmpy
+- install grmpy
 
