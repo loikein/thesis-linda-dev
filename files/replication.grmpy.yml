@@ -11,6 +11,7 @@ ESTIMATION:
     maxiter: 80000
     dependent: wage
     indicator: state
+    print_output: 0
     output_file: files/replication.grmpy.info
     comparison: 0
 TREATED:
