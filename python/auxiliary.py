@@ -48,7 +48,7 @@ def plot_est_mte(rslt, file):
     # Calculate the MTE and confidence intervals
     mte = calculate_mte(rslt, data_frame, quantiles)
     mte = [i / 3 for i in mte]
-    mte_up, mte_d = calculate_cof_int(rslt, data_frame, mte, quantiles)
+    mte_up, mte_d = calculate_cof_int(rslt, init_dict, data_frame, mte, quantiles)
 
     # Plot both curves
     ax = plt.figure(figsize=(17.5, 10)).add_subplot(111)
