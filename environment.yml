@@ -1,14 +1,34 @@
 name: thesis_project
 
+channels:
+  - defaults
+  - conda-forge
+  - opensourceeconomics
+  - janosg
+
 dependencies:
-- numpy
-- pandas
-- jupyterlab
-- matplotlib
-- seaborn
-- scipy
-- pip
-- pip:
-  - grmpy==0.1.3.dev1
-  - scikit-misc
+
+  - python=3.7
+  - pandas>=0.25
+  - numpy=1.16
+  - scipy
+  - jupyterlab =2.1.5
+  - matplotlib
+  - seaborn
+  - pytest
+  - numba
+  - pip=19.3.1
+  - black
+  - flake8
+  - doc8
+  - respy
+  - estimagic>=0.0.14
+  - pip:
+    - salib==1.3.8
+    - openturns = 1.15
+    - isort
+    - pre-commit
+    - codecov
+    - pytest-cov
+    - black
 
