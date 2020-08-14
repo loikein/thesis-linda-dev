@@ -31,4 +31,5 @@ dependencies:
     - codecov
     - pytest-cov
     - black
+    - XlsxWriter
 
