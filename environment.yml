@@ -36,4 +36,3 @@ dependencies:
 
     - black-nb
     - flake8-nb
-
