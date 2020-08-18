@@ -33,6 +33,6 @@ dependencies:
     - openturns
     - pre-commit
     - codecov
-
+    - XlsxWriter
     - black-nb
     - flake8-nb
