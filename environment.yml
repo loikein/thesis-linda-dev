@@ -7,30 +7,32 @@ channels:
   - janosg
 
 dependencies:
+  - python
 
-  - python=3.7
-  - pandas>=0.25
-  - numpy=1.16
+  - pandas
+  - numpy
   - scipy
-  - jupyterlab =2.1.5
-  - matplotlib
-  - seaborn
-  - pytest
   - numba
-  - pip=19.3.1
+  - respy
+  - estimagic>=0.0.14
+  - chaospy
+
+  - pip
+  - ipykernel
+  - jupyterlab
+  - pytest
+  - pytest-cov
   - black
   - flake8
   - doc8
-  - respy
-  - estimagic>=0.0.14
+
   - pip:
-    - salib==1.3.8
-    - openturns==1.15
-    - isort
-    - chaospy
+    - matplotlib
+    - seaborn
+    - salib
+    - openturns
     - pre-commit
     - codecov
-    - pytest-cov
-    - black
     - XlsxWriter
-
+    - black-nb
+    - flake8-nb

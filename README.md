@@ -35,4 +35,3 @@ To ensure full reproducibility of your project, please set up a [Travis CI](http
 * *How can I improve the quality of my writing?* We provide some suggestions [here](https://github.com/HumanCapitalAnalysis/general-resources).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](HumanCapitalAnalysis/student-project-template/blob/master/LICENSE)
-
